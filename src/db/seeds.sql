@@ -16,11 +16,11 @@ VALUES ('Marketing Manager',123221,1),
 
 
        insert into employee (first_name,last_name,role_id,manager_id)
-       VALUES ('Bruce','Wayne',1,null), - 1 market
-       ('Jason','Todd',3,null), - 2 customer
-       ('Steven','Grant',7,null) - 3 sales
+       VALUES ('Bruce','Wayne',1,null),
+       ('Jason','Todd',3,null),
+       ('Steven','Grant',7,null),
        ('Peter','Quill',2,3),
        ('Matt','Murdock',4,1),
-       ('Oliver','Queen',4,1)
+       ('Oliver','Queen',4,1),
        ('Mark','Spector',5,null)
        
